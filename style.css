@@ -1,1 +1,12 @@
+body {
+  background-image: url("https://www.fi.edu/sites/default/files/styles/featured_thumb/public/images/landing-page/Hero_AR.jpg?itok=S1aoBGlI");
+  font-family:monospace , helveticam sans-serif;
+  margin: 10% 20%; color: Pink
+}
 
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #F0FFFF;
+  border-bottom: 1px solid #F0FFFF;
+  background-color: rgba(127,1,11, 6.1)
